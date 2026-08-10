@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/dhanush-darpan)
 [![LF Profile](https://img.shields.io/badge/Linux%20Foundation-000000?style=flat&logo=linux-foundation&logoColor=white)](https://openprofile.dev/profile/dhanush.darpan)
 [![HDLBits](https://img.shields.io/badge/HDLBits-808080.svg?logoColor=white)](https://hdlbits.01xz.net/wiki/Special:VlgStats/dhanush-darpan)
+[![LeetSilicon](https://img.shields.io/badge/LeetSilicon-000000?style=flat&logoColor=white)](https://leetsilicon.com/?view=profile&u=cd2199fc-c5bf-4133-b124-50fd5d1a17b5)
 
 </div>
 
