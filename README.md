@@ -99,7 +99,8 @@ Currently a **Design Verification Trainee at K-VLSI, IIIT Bangalore** (FutureWiz
 ## Achievements
 
 - 🟢 Solved **100+ digital design problems** on HDLBits, HDL2Chips and ElectronicBit
+- 🥈  Secured **2nd Rank** out of **151 candidates** in the PG Diploma in Advanced VLSI, placing in the **top 1.32%** of the cohort
 - 📋 **Qualified GATE 2025** — Electronics and Communication Engineering (EC)
 - 📡 Appointed **Sanchar Mitra** (AY 2025–26) by the Department of Telecommunications, Government of India
-- 🏆 **Ranked 3rd institutionally** in JEE 2022
+- 🥉 **Ranked 3rd institutionally** in JEE 2022
 - 🎖 **ICSE Talent Search Examination** award — 3 consecutive years
